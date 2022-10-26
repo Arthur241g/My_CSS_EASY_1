@@ -2,18 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem are of to create a page responsive for no matter what web-platform and the challenge are of to master the different element flex-box of CSS for thad.
 
 ## Description
-TODO - How have you solved the problem?
+i have solved the problem in using the differents fonctions of medias quieries (screens) and differents elements flexs.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+i dowload is package inline
 
 ## Usage
 TODO - How does it work?
 ```
-./my_project argument1 argument2
+./my_project index.html style.css
 ```
 
 ### The Core Team
